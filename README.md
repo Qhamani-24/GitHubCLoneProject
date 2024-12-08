@@ -1,1 +1,1 @@
-This is the description of my repo
+Practice task for branching and merging in Git and GitHub
